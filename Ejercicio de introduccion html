@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!-- Este es mi primer comentario de dos líneas
+    Aprendiendo a documentar mi código con OpenBootcamp -->
+    <div>
+        <ul>
+            <a href="https://youtu.be/TOKHdJO_u2A">
+                <li>Stwo - Neither Do I</li>
+            </a>
+            <a href="https://youtu.be/QGq7HU7Hmog">
+                <li>Nezuko - Rojuu</li>
+            </a>
+            <a href="https://youtu.be/IVcBaRWYBTI">
+                <li>Umi - Rojuu</li>
+            </a>
+        </ul>
+    </div>
+</body>
+</html>
